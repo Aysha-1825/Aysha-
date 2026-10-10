@@ -1,0 +1,6 @@
+{
+  "name": "عالم المجسمات وشبكاتها الهندسية",
+  "description": "منصة تعليمية تفاعلية لاستكشاف وطي وفرد شبكات المجسمات الهندسية وقياساتها مع ألعاب وألغاز رياضية مشوقة - إعداد أ. عائشة ناصر السنيدية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
